@@ -4,7 +4,7 @@
   
   <div id="bades">
     <a href="https://t.me/alexey_makurin">
-      <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge", alt="Telegram Badge"/>
+      <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
   
   </div>
